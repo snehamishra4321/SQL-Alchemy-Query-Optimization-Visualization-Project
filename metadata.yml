@@ -1,0 +1,20 @@
+---
+:id: 150747457
+:submitters:
+- :name: Vedang Vikas Gupte
+  :email: vedang@tamu.edu
+- :name: Srishti Rath
+  :email: srish15@tamu.edu
+- :name: Sneha Mishra
+  :email: sneha.mishra@tamu.edu
+- :name: Bingwen Liu
+  :email: bingwen.liu@tamu.edu
+- :name: Hemanth Krishna Sontineni
+  :email: shk@tamu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-11-24 05:48:51.266564000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-11-23 21:48:51.266564000 Z
+:status: processed
+:score: 41.25
